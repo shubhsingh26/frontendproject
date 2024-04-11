@@ -13,14 +13,14 @@ let products = {
         category: "Skirt",
         price: "49",
         image:
-          "https://images.unsplash.com/photo-1590861337998-a4cf4036ccb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
-      },
+        "https://hellosouthkorea.com/cdn/shop/products/Pleated-Skirt-Women-High-Waist-Sexy-Mini-Skirts-Tennis-Skirt-Girl-Dance-Skirt-Kawaii-Casual-Korean_jpg_1200x.webp?v=1688764271 ",
+           },
       {
         productName: "Basic Knitted Top",
         category: "Topwear",
         price: "29",
         image:
-          "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=405&q=80",
+        "https://ae01.alicdn.com/kf/S40a6f55e54ba4b4f8e7dc7f74a7296acD/Super-Hot-Asian-Girls-Kroean-Top-thin-Pink-Retro-V-neck-Ruffles-Lace-Eleganta-Tees-Sexy.jpg",
       },
       {
         productName: "Brown Men's Jacket",
